@@ -8,7 +8,6 @@ while count<100000:
     mymegaplier1  = random.sample (range (1, 25), 1)
     mymega3 = sorted(mymega1)
     jackpot = [9,14,57,67,70]
-
     megaplier = [2]
     print("try: ",count)
     print("My Mega Million   ", mymega3,  "Megaball:", mymegaplier1)
